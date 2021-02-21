@@ -1,0 +1,6 @@
+.test {
+  display: flex;
+  width: 420px;
+  padding: 10px;
+  border: 1px solid red;
+}

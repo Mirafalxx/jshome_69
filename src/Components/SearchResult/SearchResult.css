@@ -1,0 +1,8 @@
+.AutoCompleteItem {
+  font-size: 15px;
+  font-weight: 400;
+}
+.AutoCompleteItem:hover {
+  cursor: pointer;
+  color: #3662e6;
+}
